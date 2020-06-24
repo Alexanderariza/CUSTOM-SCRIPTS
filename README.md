@@ -31,3 +31,5 @@ EO Browser{:target="_blank"}
 General description of the script
 References
 possible references (scientific articles, wiki/web references, ...)
+Creative Commons License
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
