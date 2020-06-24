@@ -1,8 +1,23 @@
 # CUSTOM-SCRIPTS
 # Algoritmos para la prevención y gestión de desastres
+----
+Este repositorio contiene una colección de scripts personalizados para [Sentinel Hub](https://www.sentinel-hub.com/), que se puede alimentar a los servicios a través de la URL
+
+# Sentinel-2
+Dedicado a suministrar datos para [Copernicus services](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2), Sentinel-2 lleva una cámara multiespectral con una franja de 290 km. El generador de imágenes proporciona un conjunto versátil de 13 bandas espectrales que abarcan desde el infrarrojo visible e infrarrojo cercano al infrarrojo de onda corta, con cuatro bandas espectrales a 10 m, seis bandas a 20 my tres bandas a una resolución espacial de 60 m. Como los índices tratan principalmente de combinar varias reflectancias de banda, la tabla de 13 bandas se proporciona aquí como referencia (Inf: [aquí](https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-2-msi/msi-instrument){:target="_blank"} for details). los nombres de las bandas de Sentinel-2 estan dispuestas asi *B01*, *B02*, *B03*, *B04*, *B05*, *B06*, *B07*, *B08*, *B8A*, *B09*, *B10*, *B11* and  *B12*. 
+
+#### Combinaciones RGB frecuentes
+ - [Color_Natural](sentinel-2/natural_color) producto calculado correctamente para que coincida con el color percibido por el ojo humano.
+ - [Color_verdadero](sentinel-2/true_color) imagen simplista en color verdadero de bandas rojas, verdes y azules.
+ - [Visualización_de_Incendios](sentinel-2/markuse_fire) (Desarrollado por Pierre Markuse, tomado del [blog](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
+#### Algoritmos para la prevención y gestión de desastres
+ - [Perimetro_incendio](sentinel-2/fire_boundary)
+ - [Indice_de_Area_Quemada_para_Sentinel-2](sentinel-2/bais2)
+ - [Analisis_Multitemporal_de_Area_Quemada](sentinel-2/burned_area)
+ - [Visualización_de_Incendios](sentinel-2/markuse_fire) (Desarrollado por Pierre Markuse, tomado del [blog](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
+ - [Visualización_del_Area_Quemada](sentinel-2/burned_area_ms)
 
 ---
-
 ## How to publish your own product
 
 * Fork the repository to get your own copy of the custom-scripts   
