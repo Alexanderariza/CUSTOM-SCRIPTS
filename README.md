@@ -8,14 +8,14 @@ Dedicado a suministrar datos para [Copernicus services](http://www.esa.int/Our_A
 
 #### Combinaciones RGB frecuentes
  - [Color_Natural](Sentinel-2/natural_color) producto calculado correctamente para que coincida con el color percibido por el ojo humano.
- - [Color_verdadero](sentinel-2/true_color) imagen simplista en color verdadero de bandas rojas, verdes y azules.
- - [Visualización_de_Incendios](sentinel-2/markuse_fire) (Desarrollado por Pierre Markuse, tomado del [blog](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
+ - [Color_verdadero](Sentinel-2/true_color) imagen simplista en color verdadero de bandas rojas, verdes y azules.
+ - [Visualización_de_Incendios](Sentinel-2/markuse_fire) (Desarrollado por Pierre Markuse, tomado del [blog](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
 #### Algoritmos para la prevención y gestión de desastres
- - [Perimetro_incendio](sentinel-2/fire_boundary)
- - [Indice_de_Area_Quemada_para_Sentinel-2](sentinel-2/bais2)
- - [Analisis_Multitemporal_de_Area_Quemada](sentinel-2/burned_area)
- - [Visualización_de_Incendios](sentinel-2/markuse_fire) (Desarrollado por Pierre Markuse, tomado del [blog](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
- - [Visualización_del_Area_Quemada](sentinel-2/burned_area_ms)
+ - [Perimetro_incendio](Sentinel-2/fire_boundary)
+ - [Indice_de_Area_Quemada_para_Sentinel-2](Sentinel-2/bais2)
+ - [Analisis_Multitemporal_de_Area_Quemada](Sentinel-2/burned_area)
+ - [Visualización_de_Incendios](Sentinel-2/markuse_fire) (Desarrollado por Pierre Markuse, tomado del [blog](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
+ - [Visualización_del_Area_Quemada](Sentinel-2/burned_area_ms)
 
 ---
 ## How to publish your own product
