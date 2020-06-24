@@ -1,5 +1,5 @@
 # CUSTOM-SCRIPTS
-# Gestión de desastres y algoritmos de prevención
+# Algoritmos para la prevención y gestión de desastres
 
 ---
 
