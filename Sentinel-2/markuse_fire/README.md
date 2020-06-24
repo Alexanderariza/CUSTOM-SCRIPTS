@@ -1,6 +1,6 @@
 # Visualización de Incendios Forestales
 
-<a href="#" id='togglescript'>Muestra</a> script o [descarga](script.js){:target="_blank"} it.
+<a href="#" id='togglescript'>Muestra el</a> script o [descarga](script.js){:target="_blank"} it.
 <div id='script_view' style="display:none">
 {% highlight javascript %}
       {% include_relative script.js %}
