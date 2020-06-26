@@ -17,6 +17,7 @@ Dedicado a suministrar datos para [Copernicus services](http://www.esa.int/Our_A
  - [Visualización_de_Incendios](Sentinel-2/markuse_fire) (Desarrollado por Pierre Markuse, tomado del [blog](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
  - [Visualización_del_Area_Quemada](Sentinel-2/burned_area_ms)
 -----
+### datos que proporciona el navegador EO:
 
 | <img width=10>Nombre del Satelite</img><img width=150> </img> | Descripcion | 
 | ----------- | ------------------------------------------------------------------------------------------------------- |
@@ -29,6 +30,25 @@ Dedicado a suministrar datos para [Copernicus services](http://www.esa.int/Our_A
  |Proba-V |The observation of land cover vegetation growth climate impact assessment water resource management agricultural monitoring and food security estimates inland water resource monitoring and tracking the steady spread of deserts and deforestation. |
  |MODIS |Monitoring of land clouds ocean colour at a global scale (by ESA) |
  |GIBS |Global image browser service with over 600 satellites made available by NASA |
+
+### Seguimiento de incendios forestales:
+Sentinel-2, que ofrece imágenes de mayor resolución que sus colegas de código abierto en la parte visible e infrarroja del espectro, está a la altura de la tarea de monitorear la vegetación, el suelo y la cubierta de agua, las vías navegables interiores y las áreas costeras.
+
+El guión Wildfire fue amablemente proporcionado por `Pierre Markuse`, (debajo de la pestaña Visualización) muestra donde podemos ubicar los frentes actívos:
+
+<div style='text-align:center;'>
+<figure><img src='./IMG2/1_CZEi2W0MRQ1T1EF1gttH4Q.gif' width='50%'/>
+    <figcaption><i>Localización de incendios forestales en California (agosto de 2018)</i></figcaption>
+</figure>
+</div>
+* Otro Ángulo: ¿Qué tan exitosos son los bomberos para contener / aislar incendios?
+
+<div style='text-align:center;'>
+<figure><img src='./IMG2/1_7KOIEFK7CFwy8QRX2A6opA.jpeg' width='50%'/>
+    <figcaption><i>Ejemplo de Pierre Markuse: Retardante de fuego causado por aviones de extinción de incendios https://flic.kr/p/Wt8Vzo</i></figcaption>
+</figure>
+</div>
+
 
 ---
 ## How to publish your own product
