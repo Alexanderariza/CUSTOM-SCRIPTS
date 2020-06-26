@@ -16,6 +16,19 @@ Dedicado a suministrar datos para [Copernicus services](http://www.esa.int/Our_A
  - [Analisis_Multitemporal_de_Area_Quemada](Sentinel-2/burned_area)
  - [Visualización_de_Incendios](Sentinel-2/markuse_fire) (Desarrollado por Pierre Markuse, tomado del [blog](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
  - [Visualización_del_Area_Quemada](Sentinel-2/burned_area_ms)
+-----
+
+| <img width=10>Nombre del Satelite</img><img width=150> </img> | Descripcion | 
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| Sentinel-1 | Maritime and land monitoring emergency response climate change |
+| Sentinel-2 | Land-cover maps land-change detection maps vegetation monitoring monitoring of burnt areas |
+| Sentinel-3 | Surface topography observations ocean and land surface colour observation and monitoring|  
+|Sentinel-3  |OLCI instrument ensures the continuity of Envisat Meris |
+ |Sentinel-5P |Monitoring the concentration of carbon monoxide (CO) nitrogen dioxide (NO2) and ozone (O3) in the air. Monitoring the UV aerosol index (AER_AI) and various geophysical parameters of clouds (CLOUD)
+ |ESAs archive of Landsat 5/7 and 8 |vegetation monitoring land use land cover maps change monitoring global coverage of Landsat 8 - Envisat Meris and old data |
+ |Proba-V |The observation of land cover vegetation growth climate impact assessment water resource management agricultural monitoring and food security estimates inland water resource monitoring and tracking the steady spread of deserts and deforestation. |
+ |MODIS |Monitoring of land clouds ocean colour at a global scale (by ESA) |
+ |GIBS |Global image browser service with over 600 satellites made available by NASA |
 
 ---
 ## How to publish your own product
