@@ -37,14 +37,14 @@ Sentinel-2, que ofrece imágenes de mayor resolución que sus colegas de código
 El guión Wildfire fue amablemente proporcionado por `Pierre Markuse`, (debajo de la pestaña Visualización) muestra donde podemos ubicar los frentes actívos:
 
 <div style='text-align:center;'>
-<figure><img src='./IMG2/1_CZEi2W0MRQ1T1EF1gttH4Q.gif' width='50%'/>
+<figure><img src='./IMG2/1_CZEi2W0MRQ1T1EF1gttH4Q.gif' width='100%'/>
     <figcaption><i>Localización de incendios forestales en California (agosto de 2018)</i></figcaption>
 </figure>
 </div>
 * Otro Ángulo: ¿Qué tan exitosos son los bomberos para contener / aislar incendios?
 
 <div style='text-align:center;'>
-<figure><img src='./IMG2/1_7KOIEFK7CFwy8QRX2A6opA.jpeg' width='50%'/>
+<figure><img src='./IMG2/1_7KOIEFK7CFwy8QRX2A6opA.jpeg' width='100%'/>
     <figcaption><i>Ejemplo de Pierre Markuse: Retardante de fuego causado por aviones de extinción de incendios https://flic.kr/p/Wt8Vzo</i></figcaption>
 </figure>
 </div>
